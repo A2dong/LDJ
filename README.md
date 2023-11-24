@@ -1,4 +1,2 @@
-# 헤으응마스터 이동진
+# The Master Branch
 ㅎㅇ
-
-A
